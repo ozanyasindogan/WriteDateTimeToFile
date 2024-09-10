@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteDateTimeToFile", "WriteDateTimeToFile\WriteDateTimeToFile.csproj", "{3DD0F0FA-5AC5-4A36-9041-D92C8F56E47A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DD0F0FA-5AC5-4A36-9041-D92C8F56E47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD0F0FA-5AC5-4A36-9041-D92C8F56E47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD0F0FA-5AC5-4A36-9041-D92C8F56E47A}.Debug|x64.ActiveCfg = Debug|x64
+		{3DD0F0FA-5AC5-4A36-9041-D92C8F56E47A}.Debug|x64.Build.0 = Debug|x64
+		{3DD0F0FA-5AC5-4A36-9041-D92C8F56E47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD0F0FA-5AC5-4A36-9041-D92C8F56E47A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DD0F0FA-5AC5-4A36-9041-D92C8F56E47A}.Release|x64.ActiveCfg = Release|x64
+		{3DD0F0FA-5AC5-4A36-9041-D92C8F56E47A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABC9D7BA-9779-4A95-95F6-F2B0F2AEBEF5}
+	EndGlobalSection
+EndGlobal
